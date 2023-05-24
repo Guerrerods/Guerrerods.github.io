@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkEscuelaDS=self.webpackChunkEscuelaDS||[]).push([[66],{2066:(n,e,s)=>{s.r(e),s.d(e,{UserRoutes:()=>u});var t=s(7688);const u=[{path:"userList",title:"User list",component:t.N},{path:"userAddEdit",title:"Add new user",component:t.Y}]}}]);
